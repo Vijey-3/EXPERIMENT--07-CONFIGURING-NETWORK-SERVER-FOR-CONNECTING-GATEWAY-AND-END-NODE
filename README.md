@@ -1,4 +1,9 @@
 ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
+**NAME: VIJEY K S**
+
+**ROLL NO: 212223040239**
+
+**DEPARTMENT: CSE**
  
 ## Aim: 
 To  configure the Network server and end device for transferring data on the network
@@ -56,6 +61,7 @@ To set APP Key
 
 
 ## OUTPUT 
+<img width="1800" height="857" alt="image" src="https://github.com/user-attachments/assets/8675b604-908c-46e2-9535-9852546b3737" />
 
 
 ## Result: 
